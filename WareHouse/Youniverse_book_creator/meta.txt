@@ -1,0 +1,31 @@
+Task:
+Create an app that takes an image input field, a name input field, gender input field, age input field, occasion input field, theme input field, story setting input field, storyline preferences input field, and a notes section for any additional customizations. This will be used to create an ai generated childrens book. The program will take the information provided and create a childrens book by generating a story using the person as the main character and using all the information provided to create a story. This will then create illustrations for each page by creating ai illustrations of the person provided by the image upload in whatever situation they find themselves in in that page created
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
